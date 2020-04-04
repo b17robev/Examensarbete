@@ -1,0 +1,9 @@
+[submodule "ExamensParser"]
+	path = ExamensParser
+	url = https://github.com/b17robev/ExamensParser
+[submodule "ExamensArbeteSymfony"]
+	path = ExamensArbeteSymfony
+	url = https://github.com/b17robev/ExamensArbeteSymfony
+[submodule "ExamensArbeteLaravel"]
+	path = ExamensArbeteLaravel
+	url = https://github.com/b17robev/ExamensArbeteLaravel
